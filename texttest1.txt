@@ -1,9 +1,9 @@
 {
-	"appLastVersion": "13",
+	"appLastVersion": "14",
 	"lessonsReducedTime": {
 		"14.09.2022": {
-			"lessonDuration": "110",
-			"lessonsTimeStart": "[830, 950, 1140, 1300, 1430, 1550, 1710]"
+			"lessonsTimeStart": "[830, 950, 1140, 1300, 1430, 1550, 1710]",
+			"lessonsTimeEnd": "[940, 1100, 1250, 1410, 1540, 1700, 1820]"
 		}
 	}
 }
