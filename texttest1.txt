@@ -2,7 +2,7 @@
 	"appMinimumVersionCode": 22092521,
 	"linkToDownloadLastVersion": "https://drive.google.com/drive/folders/18Np00UHLAGtjGUgpvOqmE8SX3OsQjRGn?usp=sharing",
 	"lessonsReducedTime": {		
-		"16.09.2022": {
+		"03.11.2022": {
 			"lessonsTimeStart": [830, 950, 1140, 1300, 1430, 1550, 1710],
 			"lessonsTimeEnd": [940, 1100, 1250, 1410, 1540, 1700, 1820]
 		},
