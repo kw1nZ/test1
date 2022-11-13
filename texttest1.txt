@@ -1,5 +1,5 @@
 {
-	"appMinimumVersionCode": 22092521,
+	"appMinimumVersionCode": 22111313,
 	"linkToDownloadLastVersion": "https://drive.google.com/drive/folders/18Np00UHLAGtjGUgpvOqmE8SX3OsQjRGn?usp=sharing",
 	"linkToDownloadLastVersionYandexDisk": "https://disk.yandex.com/d/D4VhOn8JrkzTkw",
 	"lessonsReducedTime": {		
